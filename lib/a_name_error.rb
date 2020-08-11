@@ -1,4 +1,4 @@
 Ruby
 put "hello world"
 
-hello_world
+do hello_world
